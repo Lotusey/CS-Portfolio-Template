@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CS-Portfolio-Template/static/css/main.c3500c41.css",
-    "main.js": "/CS-Portfolio-Template/static/js/main.0ccf15f5.js",
+    "main.css": "/CS-Portfolio-Template/static/css/main.bf9d4da8.css",
+    "main.js": "/CS-Portfolio-Template/static/js/main.eff229e1.js",
     "static/js/453.b05d8aa5.chunk.js": "/CS-Portfolio-Template/static/js/453.b05d8aa5.chunk.js",
     "static/media/mock10.png": "/CS-Portfolio-Template/static/media/mock10.2d05b02ba569a430a255.png",
     "static/media/mock09.png": "/CS-Portfolio-Template/static/media/mock09.e18677ccfc932e52d754.png",
@@ -16,12 +16,12 @@
     "static/media/mock02.png": "/CS-Portfolio-Template/static/media/mock02.bced48ae9cdda3acf1a3.png",
     "static/media/mock03.png": "/CS-Portfolio-Template/static/media/mock03.a4600719e0b5d2a3155b.png",
     "index.html": "/CS-Portfolio-Template/index.html",
-    "main.c3500c41.css.map": "/CS-Portfolio-Template/static/css/main.c3500c41.css.map",
-    "main.0ccf15f5.js.map": "/CS-Portfolio-Template/static/js/main.0ccf15f5.js.map",
+    "main.bf9d4da8.css.map": "/CS-Portfolio-Template/static/css/main.bf9d4da8.css.map",
+    "main.eff229e1.js.map": "/CS-Portfolio-Template/static/js/main.eff229e1.js.map",
     "453.b05d8aa5.chunk.js.map": "/CS-Portfolio-Template/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3500c41.css",
-    "static/js/main.0ccf15f5.js"
+    "static/css/main.bf9d4da8.css",
+    "static/js/main.eff229e1.js"
   ]
 }
